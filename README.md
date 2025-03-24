@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Natã Rodrigues!  
 
-<!--
-**sntxs/sntxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer dedicated to transforming ideas into unique digital experiences. Currently in my final semester of Software Engineering, I specialize in front-end development and focus on building dynamic, user-friendly interfaces with clean code. I'm always looking to improve my skills and contribute to innovative projects.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Front-end**  
+- Development with **Vue.js**, **React** and a bit of **React Native**  
+- Responsive UI design with **HTML, CSS, Bootstrap, and Tailwind CSS**  
+- State management and API consumption  
+- Experience with animations and dynamic interactions  
+
+⚙️ **Back-end & Databases**  
+- API development with **Node.js** and basic knowledge of **C#/.NET**
+- Data management with **MySQL** and **Firebird**
+- System integration and user authentication  
+
+📊 **Other Skills**  
+- Version control with **Git**  
+- Agile methodologies and best development practices  
+- Web application hosting and deployment  
+
+## 📫 Get in touch  
+
+📧 [E-mail](mailto:natanrodrigues649@gmail.com)  
+
+🌐 [Portfolio](https://nata-portfolio.vercel.app)
+
+📷 [Instagram](https://instagram.com/santos.rod00)
+
+💼 [LinkedIn](https://www.linkedin.com/in/sntsrod00/)
