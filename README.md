@@ -22,10 +22,10 @@ I'm a passionate web developer dedicated to transforming ideas into unique digit
 
 ## 📫 Get in touch  
 
-📧 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:natanrodrigues649@gmail.com)  
+📧 [E-mail](mailto:natanrodrigues649@gmail.com)  
 
-🌐 [![Portfolio](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://nata-portfolio.vercel.app)
+🌐 [Portfolio](https://nata-portfolio.vercel.app)
 
-📷 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://instagram.com/santos.rod00)
+📷 [Instagram](https://instagram.com/santos.rod00)
 
-💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sntsrod00/)
+💼 [LinkedIn](https://www.linkedin.com/in/sntsrod00/)
