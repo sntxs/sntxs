@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Natã Rodrigues!  
 
-I'm a passionate web developer dedicated to transforming ideas into unique digital experiences. Currently in my final semester of Software Engineering, I specialize in front-end development and focus on building dynamic, user-friendly interfaces with clean code. I'm always looking to improve my skills and contribute to innovative projects.  
+I'm a passionate web developer dedicated to transforming ideas into unique digital experiences. I has a bachelor's degree in Software Engineer, I specialize in front-end development and focus on building dynamic, user-friendly interfaces with clean code. I'm always looking to improve my skills and contribute to innovative projects.  
 
 ## 🛠️ Skills  
 
