@@ -5,7 +5,7 @@ I'm a passionate web developer dedicated to transforming ideas into unique digit
 ## 🛠️ Skills  
 
 🚀 **Front-end**  
-- Development with **Vue.js**, **React** and a bit of **React Native**  
+- Development with **Vue.js**, **React**, **TypeScript** and a bit of **React Native**  
 - Responsive UI design with **HTML, CSS, Bootstrap, and Tailwind CSS**  
 - State management and API consumption  
 - Experience with animations and dynamic interactions  
